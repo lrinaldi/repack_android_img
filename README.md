@@ -15,4 +15,6 @@ Make sure you are in the same folder than rawprogram_unsparse.xml and splitted i
     example: repack_android_img.pl -l system -f rawprogram_unsparse.xml
 ```
 
-Written in Perl
+# tools :
+
+Pre-compiled (linux x86-64) tools for android image manipulation can be found in external/android_img_repack_tools/bin/x86-64/
