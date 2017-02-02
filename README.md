@@ -10,7 +10,7 @@ Make sure you are in the same folder than rawprogram_unsparse.xml and splitted i
 
      -l label  : partition label
      -f file   : xml file data (default : rawprogram_unsparse.xml)
-     -m        : write missing byte at the end of the file (not implemented yet)
+     -m        : write missing block at the end of the file (not implemented yet)
 
     example: repack_android_img.pl -l system -f rawprogram_unsparse.xml
 ```
